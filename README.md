@@ -1,4 +1,3 @@
-Here is the table — shall I add this to the document as an appendix or within the methods section?
 
 | Package | Version | Purpose |
 |---|---|---|
